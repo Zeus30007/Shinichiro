@@ -20,22 +20,22 @@ global.location = "Australia, Sydney, newtown" //ur location
 
 //new
 global.botname = '㊗𝙎𝙝𝙞𝙣𝙞𝙘𝙝𝙞𝙧𝙤' //ur bot name
-global.ownernumber = '61485971304' //ur owner number
-global.ownername = '㊗𝙈𝙄𝙆𝙀𝙔' //ur owner name
+global.ownernumber = '255626967587' //ur owner number
+global.ownername = '㊗⨺⃝𝙼𝙸𝚁𝙰𝙽 𝙵𝙾𝚇𓃦' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://chat.whatsapp.com/Ezy0NeJe5DQ0o1srrAtsUo"
+global.wagc = ""
 global.themeemoji = '⛩️'
 global.wm = "𝙈𝙄𝙆𝙀𝙔㊗𝙎𝙝𝙞𝙣𝙞𝙘𝙝𝙞𝙧𝙤."
 global.botscript = 'https://github.com/' //script link
-global.packname = "𝙎𝙝𝙞𝙣𝙞𝙘𝙝𝙞𝙧𝙤"
-global.author = "㊗𝙈𝙄𝙆𝙀𝙔"
-global.creator = "61485971304@s.whatsapp.net"
+global.packname = "Hail ⨺⃝𝙼𝙸𝚁𝙰𝙽 𝙵𝙾𝚇𓃦"
+global.author = "the supreme force."
+global.creator = "255626967587"
 global.xprefix = '!'
-global.premium = ["61485971304"] // Premium User
+global.premium = ["255626967587"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v1' // menu type 'v1' => 'v8'
+global.typemenu = 'v2' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
